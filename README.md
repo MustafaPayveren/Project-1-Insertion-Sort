@@ -1,3 +1,3 @@
 ## Project-1-Insertion-Sort
 
-#Patika Projesidir
+# It's patika project
